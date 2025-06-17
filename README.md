@@ -1,4 +1,4 @@
-![Header Image](./header.png)
+![Header Image](./github-header-image.png)
 
 <p align="center">
   <a href="www.linkedin.com/in/shubham-s-51b5a512a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
