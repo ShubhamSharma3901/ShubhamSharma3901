@@ -3,16 +3,15 @@
 <p align="center">
   <a href="www.linkedin.com/in/shubham-s-51b5a512a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:s.sharma2001@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ShubhamSharma3901"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 # About:
 Hi, I’m **Shubham Sharma** — AWS Certified Cloud Practitioner and a Software Engineer building large-scale, fault-tolerant systems. I specialize in cloud-native development, distributed systems, and low-latency networking.
 
-🚀 I’ve recently built a Kubernetes-powered Cloud IDE that reduced average file retrieval latency by 80% and ensured 99.99999999% uptime.<br/>
-🧠 I also engineered a DNS forwarder from scratch (RFC 1035 Compliant) with smart TTL aware caching and binary protocol parsing for high-speed information retrieval.<br/> 
-🎓 I’m currently pursuing my MCA at MIT Manipal (top 3% of my batch, CGPA: 9.55) and am AWS Certfied Cloud Practitioner.<br/>
-💡 Always exploring the intersections of backend infrastructure, GenAI, and information retrieval systems.<br/>
+- 🚀 I’ve recently built a Kubernetes-powered Cloud IDE that reduced average file retrieval latency by 80% and ensured 99.99999999% uptime.<br/>
+- 🧠 I also engineered a DNS forwarder from scratch (RFC 1035 Compliant) with smart TTL aware caching and binary protocol parsing for high-speed information retrieval.<br/> 
+- 🎓 I’m currently pursuing my MCA at MIT Manipal (top 3% of my batch, CGPA: 9.55) and am AWS Certfied Cloud Practitioner.<br/>
+- 💡 Always exploring the intersections of backend infrastructure, GenAI, and information retrieval systems.<br/>
 
 
 # Skills:
@@ -21,8 +20,7 @@ Hi, I’m **Shubham Sharma** — AWS Certified Cloud Practitioner and a Software
 
 # Stats:
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=ShubhamSharma3901&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="Readme_Stats">
-  <a href="https://nirzak-streak-stats.vercel.app/?user=ShubhamSharma3901&theme=github_dark&hide_border=false" alt="Streak_Stats">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ShubhamSharma3901&theme=github_dark&hide_border=false" alt="Streak_Stats">
 </p>
 
 ---
