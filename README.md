@@ -10,7 +10,7 @@ Hi, I’m **Shubham Sharma** — AWS Certified Cloud Practitioner and a Software
 
 - 🚀 I’ve recently built a Kubernetes-powered Cloud IDE that reduced average file retrieval latency by 80% and ensured 99.99999999% uptime.<br/>
 - 🧠 I also engineered a DNS forwarder from scratch (RFC 1035 Compliant) with smart TTL aware caching and binary protocol parsing for high-speed information retrieval.<br/> 
-- 🎓 I’m currently pursuing my MCA at MIT Manipal (top 3% of my batch, CGPA: 9.55) and am AWS Certfied Cloud Practitioner.<br/>
+- 🎓 I’m currently pursuing my MCA at MIT Manipal (top 3% of my batch, CGPA: 9.55)<br/>
 - 💡 Always exploring the intersections of backend infrastructure, GenAI, and information retrieval systems.<br/>
 
 
