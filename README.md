@@ -1,1 +1,1 @@
-![App Platorm](./header.png)
+![Header Image](./header.png)
