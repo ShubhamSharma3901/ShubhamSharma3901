@@ -1,1 +1,1 @@
-[![App Platorm]([https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/0-BLOG-BANNERS/app_platform.png](https://github.com/ShubhamSharma3901/ShubhamSharma3901/blob/main/header.png?raw=true))](https://www.digitalocean.com/products/app-platform)
+![App Platorm](./header.png)
